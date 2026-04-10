@@ -1,0 +1,7 @@
+,Adenocarcinoma,High-grade IN,Low-grade IN,Normal,Polyp,Serrated adenoma
+Adenocarcinoma,118,2,0,0,0,0
+High-grade IN,2,22,4,0,0,0
+Low-grade IN,0,4,88,0,2,1
+Normal,0,0,0,9,3,0
+Polyp,0,0,4,0,67,0
+Serrated adenoma,0,0,0,0,0,8
